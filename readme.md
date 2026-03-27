@@ -8,8 +8,6 @@
 
 **AI-powered chatbot for ride-sharing apps using LLMs + RAG for policy-grounded answers.**
 
-![Chatbot Screenshot](screenshot.png) <!-- optional: add if you have a screenshot or GIF -->
-
 ---
 
 ## 🛠 Features
